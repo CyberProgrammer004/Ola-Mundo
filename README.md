@@ -7,4 +7,4 @@ O site permite alteracoes remotas.
 Preticando, procurando mais informacao, "masterizando" HTML
 inicio do aprendizado para o mundo da programacao web.
 mais uma feramenta do mundo da programacao adicionada.
-Criar optimizar desenvolver e executar.
+Criar optimizar desenvolver e executar[CODE].
